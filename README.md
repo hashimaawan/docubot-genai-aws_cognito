@@ -17,7 +17,7 @@ Companies store thousands of documents across formats (PDFs, Word, Excel, Notion
 -  Chat with your internal files (PDF, DOCX, XLSX, Notion, etc.) --> Notion in future updates
 -  Summarized search results with full-document deep dive  --> Future challenges
 -  Role-based access control (AWS Cognito)  --> Future Challenges (DONE)
--  Audit logging via ELK Stack --> Future Challenges
+-  Audit logging using ELK Stack --> Future Challenges
 -  Scalable backend using LangChain + Gemini or HuggingFace
 -  Secure file storage via AWS S3   --> Future Challenges
 -  Deployable using Docker & AWS ECS 

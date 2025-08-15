@@ -5,10 +5,10 @@ from chains.rag_chain import build_rag_chain
 import tempfile
 import os
 
-st.set_page_config(page_title="📄 DocuBot - RAG Assistant", page_icon="🤖", layout="wide")
+st.set_page_config(page_title=" DocuBot - RAG Assistant", page_icon="🤖", layout="wide")
 
 # --- UI Header ---
-st.title("📄 DocuBot - Your AI Document Assistant")
+st.title(" DocuBot - Your AI Document Assistant")
 st.markdown("Upload a document and ask any question. Powered by RAG + Gemini 🚀")
 
 # --- Sidebar ---
